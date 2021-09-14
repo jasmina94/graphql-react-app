@@ -1,6 +1,3 @@
-# Demonstration of React client app working with SpaceX API as as server
+# Space Launch Stats
 
-## To be done:
-
-    Instructions for running app
-    Instructions for deploying app
+## _React, GraphQL, Apollo app that uses the SpaceX API to display launches_
